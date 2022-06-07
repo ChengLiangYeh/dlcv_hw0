@@ -22,4 +22,4 @@ Component Analysis and Image Filtering.
 ![1](./pic/Pca2.png)
 
 
-- Check hw0_report.pdf for more informations.
+- Check hw1_report.pdf for more informations.
