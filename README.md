@@ -8,3 +8,9 @@ values or features.
 
 
 # Result
+
+- Kmeans:
+
+- PCA:
+
+- Check hw0_report.pdf for more informations.
